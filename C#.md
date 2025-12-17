@@ -1,4 +1,4 @@
-#  C# Questions and Answers
+#  C# 
 
 ## 1. Features of C#
 C# is a modern, object-oriented, type-safe language with automatic memory management.
