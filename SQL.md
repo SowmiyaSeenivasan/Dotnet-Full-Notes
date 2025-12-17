@@ -1,3 +1,5 @@
+## SQL
+
 ## 1.What is SQL?  
 SQL is a language to manage and manipulate relational databases.
 
@@ -57,3 +59,8 @@ Combines results of two queries eliminating duplicates.
 
 ## 20.Difference between DELETE and TRUNCATE? 
 DELETE removes rows with conditions; TRUNCATE removes all rows and resets identity.
+
+
+
+
+
